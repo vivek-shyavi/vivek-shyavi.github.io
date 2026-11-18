@@ -21,3 +21,7 @@ Free plan limits and terms can change. A custom domain (for example, `yourname.c
 
 ## Update the site
 Edit `index.html` for text, `styles.css` for appearance and `script.js` for menu/scroll behavior. Save and refresh your browser. When hosted, upload/push the updated files again.
+
+
+## Profile photo
+The hero portrait is stored at `assets/profile.jpg`. Replace that file with your preferred portrait using the same filename to update the photo.
